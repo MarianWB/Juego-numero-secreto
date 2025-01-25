@@ -45,7 +45,7 @@ Si tienes alguna duda, sugerencia o simplemente quieres colaborar en algún proy
 - [Instagram](https://www.instagram.com/ozmarian_/)
 - [LinkedIn](https://www.linkedin.com/in/marianwb/)
 
-Estoy siempre en disposición de ayudar, colaborar y aprender juntos. ¡Espero tu mensaje! 😊
+<h4>Estoy siempre en disposición de ayudar, colaborar y aprender juntos. ¡Espero tu mensaje! 😊</h4>
 ---
-¡Gracias por visitar este proyecto! ✨
+<h1>¡Gracias por visitar este proyecto! ✨</h1>
 
